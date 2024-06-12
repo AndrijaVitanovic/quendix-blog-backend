@@ -1,2 +1,2 @@
-# blog-backend
-This is project for SE401 subject for uni.
+# quendix-blog-backend
+This is project for IT355 subject for university.
